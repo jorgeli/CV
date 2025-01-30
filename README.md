@@ -1,5 +1,5 @@
 # Jorge Félix Alviárez Gómez  
-📧 jorge.f.alviarez@nttdata.com  
+📧 jorge.f.alviarez@gmail.com  
 📞 +81 090 4605 0746  
 📍 Koto-ku, Tokyo  
 **LinkedIn:** [linkedin.com/in/jalviarez](https://www.linkedin.com/in/jalviarez/)  
