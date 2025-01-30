@@ -22,7 +22,7 @@ With over a decade of experience, I have seamlessly combined **technical innovat
 ## 💼 Experience  
 
 ### **NTT Data Chile – Technical Specialist | Presales** _(2022 - Present)_  
-- Lead presales and technical solution design for enterprise clients in AI-driven conversational experiences.  
+- **Led the go-to-market strategy** for a **conversational AI asset** with a dedicated budget across **Japan, Malaysia, and Indonesia**, engaging **30+ clients** with **PoC**s, **demos**, and **solution design** proposals in the last year.  
 - Developed structured prompts leveraging function calling, natural language queries, and AI-driven interactions to enhance e-commerce prototypes and AI-powered customer support solutions.  
 - Implemented AI agents using OpenAI’s real-time API, exploring multilingual AI, structured outputs, and function calling to improve chatbot response accuracy.  
 - Designed scalable AI architectures, ensuring prompt-driven AI features integrate seamlessly with backend APIs, databases, and enterprise applications.  
@@ -96,3 +96,4 @@ With over a decade of experience, I have seamlessly combined **technical innovat
 ## 🌐 Open Source & Repositories  
 - **Personal GitHub:** [@jorgeli](https://github.com/jorgeli)  
 - **Syntphony-EVA-unofficial:** [GitHub Repository](https://github.com/Syntphony-EVA-unofficial)
+
