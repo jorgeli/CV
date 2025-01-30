@@ -1,9 +1,11 @@
 # Jorge Félix Alviárez Gómez  
-📧 jorge.f.alviarez@gmail.com  
+📧 jorge.f.alviarez@nttdata.com  
 📞 +81 090 4605 0746  
 📍 Koto-ku, Tokyo  
+**LinkedIn:** [linkedin.com/in/jalviarez](https://www.linkedin.com/in/jalviarez/)  
 
 ## 🏆 Technical Specialist | Presales | Solution Architect  
+
 
 With over a decade of experience, I have seamlessly combined **technical innovation** with **strategic business development** to drive technology transformations. I thrive at the intersection of **AI-driven solutions, client engagement**, and **digital strategy**—leading end-to-end initiatives that span design, development, and go-to-market execution. My background includes co-founding a startup focused on AI-assisted healthcare, where I secured clients, steered market research, and forged critical partnerships to scale operations. I bring a relentless focus on delivering **impact**, whether through prototypes, enterprise integrations, or spearheading business development to ensure a steady flow of opportunities.
 
